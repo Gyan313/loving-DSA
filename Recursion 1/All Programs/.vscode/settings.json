@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "cmath": "cpp",
+        "xstring": "cpp",
+        "xmemory": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "locale": "cpp",
+        "xlocale": "cpp",
+        "algorithm": "cpp",
+        "optional": "cpp"
+    }
+}
